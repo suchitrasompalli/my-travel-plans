@@ -55,6 +55,10 @@ h2 {
     background-color: #d32f2f;
 }
 
+#newyork {
+    background-color: #F0F8FF;
+}
+
 .destination:hover h2 {
     transform: rotate(0deg);
 }
